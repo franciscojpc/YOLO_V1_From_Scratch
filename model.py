@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 
+# This code is made the same way that https://www.youtube.com/watch?v=n9_XyCGr-MI
 
 
 
